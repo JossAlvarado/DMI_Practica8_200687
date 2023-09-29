@@ -16,7 +16,23 @@
 
 ## Descripción      
 
-La aplicación desarrollada en clase muestra una página de inicio titulada "MovieApp". La página de inicio contiene la "AppBar" que le permite mostrar un título en el centro y un icono de búsqueda en la esquina superior derecha. También cuenta con un cajón con un menú lateral con las siguientes opciones: Películas, TV y Apagado. Finalmente, tiene una barra de navegación con tres elementos: "Popular": muestra películas populares, "Próximamente": muestra las próximas películas y "Top Rated": muestra las películas con las calificaciones más altas.
+Se desarrollo una aplicación que muestra una página de inicio que contiene un catálogo de películas que se encuentran en el cine a punto de estrenar o bien que ya fueron estrenadas. La aplicación cuenta con los siguientes puntos:
+
+1. Barra de Navegación Superior
+La AppBar muestra el título "MovieApp" en el centro y un icono de búsqueda en la esquina derecha.
+
+2. Menú Lateral (Drawer)
+El menú lateral se abre deslizando desde el borde izquierdo de la pantalla o tocando el icono de menú en la AppBar. Contiene las siguientes opciones:
+
+Peliculas
+Television
+Cerrar
+3. Barra de Navegación Inferior (BottomNavigationBar)
+La barra de navegación inferior contiene tres elementos:
+
+populares
+Proximamente
+Mejor valorados
 
   
 ## Capturas de Pantalla de la App
