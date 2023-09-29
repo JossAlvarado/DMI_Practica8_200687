@@ -36,4 +36,7 @@ Mejor valorados
 
   
 ## Capturas de Pantalla de la App
-![image](https://github.com/JossAlvarado/DMI_Practica07_200687/assets/84793967/4ffcb416-373a-4dc6-9e3c-ceff9d62854b)
+![Screenshot_1696014980](https://github.com/JossAlvarado/DMI_Practica8_200687/assets/84793967/699b6acc-02c2-4382-9bd6-26f65fb6e4ee)
+![Screenshot_1696014984](https://github.com/JossAlvarado/DMI_Practica8_200687/assets/84793967/df725527-bef7-4a0e-8b3a-433179cb0cbb)
+
+
