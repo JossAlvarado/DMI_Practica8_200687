@@ -34,6 +34,8 @@ populares
 Proximamente
 Mejor valorados
 
+A las ya existentes bases de datos de cine y televisión, IMDb y AllMovie, se ha añadido una nueva: The Movie DataBase (TMDb). Destaca de TMDb su interfaz moderna y atractiva, además de un claro intento de crear comunidad e involucrar a los usuarios en la producción y la revisión de los contenidos.
+
   
 ## Capturas de Pantalla de la App
 ![Screenshot_1696014980](https://github.com/JossAlvarado/DMI_Practica8_200687/assets/84793967/699b6acc-02c2-4382-9bd6-26f65fb6e4ee)
